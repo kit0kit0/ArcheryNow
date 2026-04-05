@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ page.lang | default: 'ja' }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,16 +7,15 @@
   <style>
     body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 42rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.65; color: #1a1a1a; }
     a { color: #0969da; }
-    nav { margin-bottom: 2rem; font-size: 0.9rem; }
-    nav a { margin-right: 1rem; }
+    nav { margin-bottom: 2rem; font-size: 0.9rem; flex-wrap: wrap; display: flex; gap: 0.5rem 1rem; }
   </style>
 </head>
 <body>
   <nav>
-    <a href="{{ '/' | relative_url }}">トップ</a>
-    <a href="{{ '/terms.html' | relative_url }}">利用規約</a>
-    <a href="{{ '/privacy.html' | relative_url }}">プライバシー</a>
-    <a href="https://github.com/kit0kit0/ArcheryNow/issues">お問い合わせ（Issues）</a>
+    <a href="{{ '/' | relative_url }}">{{ page.nav_home | default: 'Home' }}</a>
+    <a href="{{ page.link_terms | relative_url }}">{{ page.nav_terms | default: 'Terms' }}</a>
+    <a href="{{ page.link_privacy | relative_url }}">{{ page.nav_privacy | default: 'Privacy' }}</a>
+    <a href="https://github.com/kit0kit0/ArcheryNow/issues">{{ page.nav_issues | default: 'Issues' }}</a>
   </nav>
   <main>
     {{ content }}
