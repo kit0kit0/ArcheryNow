@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 42rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.65; color: #1a1a1a; }
+    a { color: #0969da; }
+    nav { margin-bottom: 2rem; font-size: 0.9rem; }
+    nav a { margin-right: 1rem; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="{{ '/' | relative_url }}">トップ</a>
+    <a href="{{ '/terms.html' | relative_url }}">利用規約</a>
+    <a href="{{ '/privacy.html' | relative_url }}">プライバシー</a>
+    <a href="https://github.com/kit0kit0/ArcheryNow/issues">お問い合わせ（Issues）</a>
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
