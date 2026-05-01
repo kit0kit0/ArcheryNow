@@ -17,7 +17,7 @@ nav_issues: Issues
 
 > **Dil:** Bilgilendirici çeviri. **Japonca** ile çelişki halinde **uygulanacak hukuk (Japonya)** yorumunda **Japonca** geçerlidir.
 
-ArcheryNow gizliliğinize saygı duyar. Metin [GitHub Pages](https://kit0kit0.github.io/ArcheryNow/privacy.html). [Kullanım şartları](https://kit0kit0.github.io/ArcheryNow/terms.html).
+ArcheryNow gizliliğinize saygı duyar. Metin [GitHub Pages](https://kitokito.app/privacy.html). [Kullanım şartları](https://kitokito.app/terms.html).
 
 ---
 
@@ -93,7 +93,7 @@ Makul önlemler; mutlak garanti yok.
 
 ## 12. Değişiklikler
 
-[GitHub Pages](https://kit0kit0.github.io/ArcheryNow/privacy.html).
+[GitHub Pages](https://kitokito.app/privacy.html).
 
 ---
 

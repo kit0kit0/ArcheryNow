@@ -81,7 +81,7 @@ Governed by the **laws of Japan**. Disputes: **Yokohama District Court, Hiratsuk
 
 ## 10. Changes
 
-We may change these Terms; changes take effect when posted on [GitHub Pages](https://kit0kit0.github.io/ArcheryNow/terms.html) or otherwise notified. Continued use means acceptance.
+We may change these Terms; changes take effect when posted on [GitHub Pages](https://kitokito.app/terms.html) or otherwise notified. Continued use means acceptance.
 
 ---
 

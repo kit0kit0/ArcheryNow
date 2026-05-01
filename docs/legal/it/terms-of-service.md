@@ -79,7 +79,7 @@ L’App è fornita “così com’è”, nei limiti di legge.
 
 ## 10. Modifiche
 
-Pubblicazione su [GitHub Pages](https://kit0kit0.github.io/ArcheryNow/terms.html). L’uso continuato implica accettazione.
+Pubblicazione su [GitHub Pages](https://kitokito.app/terms.html). L’uso continuato implica accettazione.
 
 ---
 

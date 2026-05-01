@@ -79,7 +79,7 @@ Uygulama “olduğu gibi” sunulur; yasal sınırlar içinde.
 
 ## 10. Değişiklikler
 
-[GitHub Pages](https://kit0kit0.github.io/ArcheryNow/terms.html) yayını. Kullanımın sürmesi kabul sayılır.
+[GitHub Pages](https://kitokito.app/terms.html) yayını. Kullanımın sürmesi kabul sayılır.
 
 ---
 

@@ -17,7 +17,7 @@ nav_issues: Issues
 
 > **Language:** This is an English translation for convenience. If there is any conflict with the **Japanese** Privacy Policy, the **Japanese** text prevails regarding **governing law** (Japan) and related interpretations.
 
-ArcheryNow (the “App”) respects your privacy. This policy explains what we handle and how. The text is published on [GitHub Pages](https://kit0kit0.github.io/ArcheryNow/privacy.html). See also the [Terms of Service](https://kit0kit0.github.io/ArcheryNow/terms.html).
+ArcheryNow (the “App”) respects your privacy. This policy explains what we handle and how. The text is published on [GitHub Pages](https://kitokito.app/privacy.html). See also the [Terms of Service](https://kitokito.app/terms.html).
 
 > This document is a draft aligned with the implementation and **is not legal advice.**
 
@@ -125,7 +125,7 @@ We take reasonable measures to protect personal information. No method of transm
 
 ## 13. Changes
 
-We may update this policy; updates take effect when posted on [GitHub Pages](https://kit0kit0.github.io/ArcheryNow/privacy.html). We will try to notify you of material changes via the App or store notes.
+We may update this policy; updates take effect when posted on [GitHub Pages](https://kitokito.app/privacy.html). We will try to notify you of material changes via the App or store notes.
 
 ---
 

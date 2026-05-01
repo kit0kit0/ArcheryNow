@@ -79,7 +79,7 @@ nav_issues: Issues
 
 ## 10. 條款變更
 
-我們可能變更條款；變更於 [GitHub Pages](https://kit0kit0.github.io/ArcheryNow/terms.html) 等刊登後生效。繼續使用視為接受變更。
+我們可能變更條款；變更於 [GitHub Pages](https://kitokito.app/terms.html) 等刊登後生效。繼續使用視為接受變更。
 
 ---
 

@@ -17,7 +17,7 @@ nav_issues: Issues
 
 > **Sprache:** Informative Übersetzung. Bei Widerspruch zum **Japanischen** gilt das **Japanische** für die **Auslegung nach anwendbarem Recht (Japan)**.
 
-ArcheryNow respektiert Ihre Privatsphäre. Text auf [GitHub Pages](https://kit0kit0.github.io/ArcheryNow/privacy.html). Siehe [Nutzungsbedingungen](https://kit0kit0.github.io/ArcheryNow/terms.html).
+ArcheryNow respektiert Ihre Privatsphäre. Text auf [GitHub Pages](https://kitokito.app/privacy.html). Siehe [Nutzungsbedingungen](https://kitokito.app/terms.html).
 
 ---
 
@@ -93,7 +93,7 @@ Angemessene Maßnahmen; keine absolute Garantie.
 
 ## 12. Änderungen
 
-[GitHub Pages](https://kit0kit0.github.io/ArcheryNow/privacy.html).
+[GitHub Pages](https://kitokito.app/privacy.html).
 
 ---
 

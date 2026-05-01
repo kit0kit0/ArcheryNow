@@ -17,7 +17,7 @@ nav_issues: Issues
 
 > **भाषा:** सूचनात्मक अनुवाद। **जापानी** के साथ टकराव में **लागू कानून (जापान)** की व्याख्या में **जापानी** प्रबल होगा।
 
-ArcheryNow आपकी गोपनीयता का सम्मान करता है। पाठ [GitHub Pages](https://kit0kit0.github.io/ArcheryNow/privacy.html) पर। [सेवा की शर्तें](https://kit0kit0.github.io/ArcheryNow/terms.html) भी देखें।
+ArcheryNow आपकी गोपनीयता का सम्मान करता है। पाठ [GitHub Pages](https://kitokito.app/privacy.html) पर। [सेवा की शर्तें](https://kitokito.app/terms.html) भी देखें।
 
 ---
 
@@ -93,7 +93,7 @@ GitHub Pages होस्टिंग; प्रथम-पक्ष कुकी
 
 ## 12. परिवर्तन
 
-[GitHub Pages](https://kit0kit0.github.io/ArcheryNow/privacy.html).
+[GitHub Pages](https://kitokito.app/privacy.html).
 
 ---
 
