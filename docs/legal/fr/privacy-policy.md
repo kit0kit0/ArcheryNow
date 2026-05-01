@@ -13,7 +13,7 @@ nav_issues: Issues
 
 # ArcheryNow — Politique de confidentialité
 
-**Dernière mise à jour : 5 avril 2026**
+**Dernière mise à jour : 1 mai 2026**
 
 > **Langue :** Traduction informative. En cas de conflit avec le **japonais**, le **japonais** prévaut pour l’**interprétation de la loi applicable (Japon)**.
 
@@ -31,15 +31,15 @@ ArcheryNow respecte votre vie privée. Texte sur [GitHub Pages](https://kit0kit0
 
 **2.1 Appareil / iCloud (Pro) :** scores, séances, modèles, objectifs, réglages. Pas d’agrégation sur nos serveurs.
 
-**2.2 Tiers :** **RevenueCat / Apple** ([confidentialité RevenueCat](https://www.revenuecat.com/privacy)) ; **iCloud** ; **GitHub Issues** ([GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)) ; **IA sur appareil** (traitement local pour le coach).
+**2.2 Tiers :** **RevenueCat / Apple** ([confidentialité RevenueCat](https://www.revenuecat.com/privacy)) ; **iCloud** ; **GitHub Issues** ([GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)) ; **IA sur appareil** (traitement local pour le coach) ; **Google AdMob / UMP** pour les annonces, le consentement, l’identifiant publicitaire, les données d’utilisation des annonces et les annonces personnalisées/non personnalisées selon vos choix.
 
-**2.3 Suivi :** pas de **Tracking** publicitaire ; pas d’AdMob.
+**2.3 Suivi :** AdMob peut utiliser des données publicitaires et de mesure selon votre consentement et l’autorisation ATT iOS. Si les annonces personnalisées ne sont pas autorisées, des annonces non personnalisées et une mesure agrégée comme SKAdNetwork peuvent être utilisées.
 
 ---
 
 ## 3. Finalités
 
-Fournir l’App, vérifier les achats, assistance, amélioration, conformité légale.
+Fournir l’App, vérifier les achats, afficher des annonces selon le consentement, assistance, amélioration, conformité légale.
 
 ---
 
@@ -51,7 +51,7 @@ Jusqu’à suppression ; tiers selon leurs politiques.
 
 ## 5. Partage et transferts
 
-**Nous ne vendons pas** les données personnelles. Transferts hors du Japon possibles ; voir politiques d’Apple, etc.
+**Nous ne vendons pas** les données personnelles. Les annonces personnalisées AdMob peuvent être considérées comme un « partage » selon certaines lois. Transferts hors du Japon possibles avec Apple/RevenueCat/GitHub/Google ; voir leurs politiques. Nous publions `app-ads.txt` à la racine du site développeur.
 
 ---
 

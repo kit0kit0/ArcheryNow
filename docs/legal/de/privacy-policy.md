@@ -13,7 +13,7 @@ nav_issues: Issues
 
 # ArcheryNow — Datenschutzerklärung
 
-**Stand: 5. April 2026**
+**Stand: 1. Mai 2026**
 
 > **Sprache:** Informative Übersetzung. Bei Widerspruch zum **Japanischen** gilt das **Japanische** für die **Auslegung nach anwendbarem Recht (Japan)**.
 
@@ -31,9 +31,9 @@ ArcheryNow respektiert Ihre Privatsphäre. Text auf [GitHub Pages](https://kit0k
 
 **2.1 Gerät / iCloud (Pro):** Scores, Sessions, Vorlagen, Ziele, Einstellungen. Keine Aggregation auf unseren Servern.
 
-**2.2 Dritte:** **RevenueCat / Apple** ([RevenueCat](https://www.revenuecat.com/privacy)); **iCloud**; **GitHub Issues** ([GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)); **On-Device-KI** (lokal für Coach).
+**2.2 Dritte:** **RevenueCat / Apple** ([RevenueCat](https://www.revenuecat.com/privacy)); **iCloud**; **GitHub Issues** ([GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)); **On-Device-KI** (lokal für Coach); **Google AdMob / UMP** für Anzeigen, Einwilligung, Werbe-ID, Anzeigennutzungsdaten und personalisierte/nicht personalisierte Anzeigen entsprechend Ihrer Auswahl.
 
-**2.3 Tracking:** kein Werbe-**Tracking**; kein AdMob.
+**2.3 Tracking:** AdMob kann Werbe- und Messdaten abhängig von Ihrer Einwilligung und der iOS-ATT-Erlaubnis verwenden. Wenn personalisierte Anzeigen nicht erlaubt sind, können nicht personalisierte Anzeigen und aggregierte Messung wie SKAdNetwork genutzt werden.
 
 ---
 

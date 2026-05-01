@@ -13,7 +13,7 @@ nav_issues: Issues
 
 # ArcheryNow — Informativa sulla privacy
 
-**Ultimo aggiornamento: 5 aprile 2026**
+**Ultimo aggiornamento: 1 maggio 2026**
 
 > **Lingua:** Traduzione informativa. In caso di conflitto con il **giapponese**, prevale il **giapponese** per l’**interpretazione secondo la legge applicabile (Giappone)**.
 
@@ -31,9 +31,9 @@ App **iOS**. Acquisti: [Termini](terms-of-service.md).
 
 **2.1 Dispositivo / iCloud (Pro):** punteggi, sessioni, modelli, obiettivi, impostazioni. Nessuna aggregazione sui nostri server.
 
-**2.2 Terze parti:** **RevenueCat / Apple** ([RevenueCat](https://www.revenuecat.com/privacy)); **iCloud**; **GitHub Issues** ([GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)); **IA on-device** (locale per il coach).
+**2.2 Terze parti:** **RevenueCat / Apple** ([RevenueCat](https://www.revenuecat.com/privacy)); **iCloud**; **GitHub Issues** ([GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)); **IA on-device** (locale per il coach); **Google AdMob / UMP** per annunci, consenso, ID pubblicitario, dati di utilizzo degli annunci e annunci personalizzati/non personalizzati in base alle tue scelte.
 
-**2.3 Tracciamento:** nessun **Tracking** pubblicitario; nessun AdMob.
+**2.3 Tracciamento:** AdMob può usare dati pubblicitari e di misurazione in base al consenso e all’autorizzazione ATT di iOS. Se gli annunci personalizzati non sono consentiti, possono essere usati annunci non personalizzati e misurazioni aggregate come SKAdNetwork.
 
 ---
 

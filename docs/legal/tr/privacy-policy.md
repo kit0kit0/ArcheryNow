@@ -13,7 +13,7 @@ nav_issues: Issues
 
 # ArcheryNow — Gizlilik politikası
 
-**Son güncelleme: 5 Nisan 2026**
+**Son güncelleme: 1 Mayıs 2026**
 
 > **Dil:** Bilgilendirici çeviri. **Japonca** ile çelişki halinde **uygulanacak hukuk (Japonya)** yorumunda **Japonca** geçerlidir.
 
@@ -31,9 +31,9 @@ ArcheryNow gizliliğinize saygı duyar. Metin [GitHub Pages](https://kit0kit0.gi
 
 **2.1 Cihaz / iCloud (Pro):** skorlar, oturumlar, şablonlar, hedefler, ayarlar. Kendi sunucularımızda toplama yok.
 
-**2.2 Üçüncü taraflar:** **RevenueCat / Apple** ([RevenueCat](https://www.revenuecat.com/privacy)); **iCloud**; **GitHub Issues** ([GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)); **cihaz üzeri yapay zeka** (koç için yerel).
+**2.2 Üçüncü taraflar:** **RevenueCat / Apple** ([RevenueCat](https://www.revenuecat.com/privacy)); **iCloud**; **GitHub Issues** ([GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)); **cihaz üzeri yapay zeka** (koç için yerel); **Google AdMob / UMP** reklamlar, izin yönetimi, reklam kimliği, reklam kullanım verileri ve tercihlerinize göre kişiselleştirilmiş/kişiselleştirilmemiş reklamlar için.
 
-**2.3 İzleme:** reklam **İzleme** yok; AdMob yok.
+**2.3 İzleme:** AdMob, izninize ve iOS ATT iznine bağlı olarak reklam ve ölçüm verilerini kullanabilir. Kişiselleştirilmiş reklamlara izin verilmezse, kişiselleştirilmemiş reklamlar ve SKAdNetwork gibi toplu ölçüm kullanılabilir.
 
 ---
 

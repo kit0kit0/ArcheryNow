@@ -2,12 +2,14 @@
 # Spec: IAB Tech Lab "Authorized Sellers for Apps" (app-ads.txt)
 # https://iabtechlab.com/ads-txt/
 #
-# 公開 URL（このリポジトリの GitHub Pages）:
-#   https://kit0kit0.github.io/ArcheryNow/app-ads.txt
+# Deploy: HTTPS で開発者サイトのルートに公開すること。
+# 実際に AdMob が取得する URL は、ストアに登録した開発者サイトのホスト名に基づき
+# https://<ホスト名>/app-ads.txt です（パスは付けない）。
 #
-# AdMob コンソールの「app-ads.txt」に表示されるコピー用スニペットと
-# 必ず照合してください（publisher ID が異なる場合は置き換え）。
+# このファイルの publisher ID は ArcheryScorePro の GADApplicationIdentifier
+# (ca-app-pub-2622958204196643~...) に対応します。AdMob コンソールの
+# 「app-ads.txt」向けコピー用スニペットと一致するか必ず照合してください。
 #
-# メディエーションで他ネットワークを使う場合は、各社の指示に従い行を追加。
+# メディエーションで他ネットワークを使う場合は、各社の指示に従い行を追加してください。
 
 google.com, pub-2622958204196643, DIRECT, f08c47fec0942fa0
