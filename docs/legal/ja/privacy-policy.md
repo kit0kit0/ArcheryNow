@@ -17,8 +17,6 @@ nav_issues: Issues
 
 ArcheryNow（以下「本アプリ」）は、ユーザーのプライバシーを尊重します。本プライバシーポリシー（以下「本ポリシー」）では、本アプリがどのような情報を扱うか、どのように利用・共有するかを説明します。
 
-> 本書は実装に沿ったドラフトであり、**法務上の助言ではありません。**
-
 本ポリシー本文は [GitHub Pages](https://kitokito.app/privacy.html) で公開しています。[利用規約](https://kitokito.app/terms.html) もあわせてご確認ください。
 
 ---
